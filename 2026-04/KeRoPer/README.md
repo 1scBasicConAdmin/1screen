@@ -2,6 +2,9 @@
 
 ![GAME SCREEN](./img/KeRoPer_gamescreen.png)
 
+** Ver 1.1が追加されました！！ **
+![GAME SCREEN_1.1](./img/KeRoPer_gamescreen_1.1.png)
+
 ## ストーリー
 とにかくジャンプが止まらないカエルのケロッパーくん
 今日は橋の上に大好物の「ハムシ」の群れをみつけたみたい
@@ -30,6 +33,9 @@
 ## ソースコード
 ![CODE](./img/KeRoPer_sourcescreen.png)
 
+** Ver 1.1が追加されました！！ **
+![CODE1.1](./img/KeRoPer_sourcescreen_1.1.png)
+
 # 編集後記
 
 ## 美しい！！
@@ -49,58 +55,70 @@ BASICの奥深さを知ったところです。
 ハムシ50匹を目標に！とのことですがゲーム下手な私には35、6でゲームオーバーです。
 くやしいです！！
 
+(Ver 1.1)
+青空が追加されたようです。1行目がフルフルでコードが詰まってます。圧巻です。
+
 - 編集部：SAILORMAN
 
 # MSX BASIC Game "KeRoPer - Keropper -"
 
 ![GAME SCREEN](./img/KeRoPer_gamescreen.png)
 
+** Ver 1.1 has been added!! **
+![GAME SCREEN_1.1](./img/KeRoPer_gamescreen_1.1.png)
+
 ## Story
-Keropper-kun, the frog who just can't stop jumping.  
-Today it looks like he spotted a swarm of his favorite "HAMUSHI" on the bridge.  
-But the problem is, this bridge is very old and easily collapses from the impact of his jumps.
+The frog Keropper-kun just can't stop jumping.  
+Today, it looks like he spotted a swarm of his favorite "Hamushi" on the bridge.  
+But there's a problem: this bridge is very old and breaks easily from the impact of his jumps.
 
 ## Game Objective
-Control the frog Keropper-kun and eat up all the "HAMUSHI" on the bridge.  
+Control the frog Keropper-kun and eat as many "Hamushi" on the bridge as you can.  
 If you fall off the bridge, it's game over. How many can you eat?  
-Be careful—the bridge breaks after being stepped on 3 times.
+Be careful — the bridge breaks after being stomped on 3 times.
 
 ## Controls
-Move left and right with the cursor keys.  
-Big jump with the spacebar.
+Move left/right with cursor keys  
+Big jump with Space
 
 ## Tips & Techniques
-Landing after a big jump destroys the bridge in a single step… but that might actually work in your favor sometimes.  
-If you land on the corner of the bridge, you'll fly off diagonally. Use this to leap distances you normally couldn't reach.
+Landing after a big jump destroys the bridge in a single step… but that might actually work in your favor.  
+If you land on the very edge of the bridge, you'll be launched diagonally. Use this trick to jump distances you normally couldn't reach!
 
 ## Afterword
-I created this game aiming for smooth, non-sluggish controls and a balance that gets you excited and ends neatly in a satisfying way.  
-Once you get a bit better, you can enjoy the “I’m such a tough survivor, I’m awesome” feeling.  
-Please play it thoroughly and aim for 50 first.
+I made this game aiming for snappy, non-sluggish controls and a balance that gets exciting and ends quickly.  
+Once you get good, you can enjoy the feeling of "I'm so awesome for stubbornly surviving this long!"  
+Please play it thoroughly with a goal of 50 Hamushi to start!
 
-Created by Hicopico  https://x.com/hicopico_koubou
+**Created by** Hicopico  
+https://x.com/hicopico_koubou
 
 ## Source Code
 ![CODE](./img/KeRoPer_sourcescreen.png)
 
+** Ver 1.1 has been added!! **
+![CODE1.1](./img/KeRoPer_sourcescreen_1.1.png)
+
 # Editor's Note
 
 ## Beautiful!!
+This is the very first submission to the project — from contributor No. 1, Hicopico.
 
-This is a submission from Hicopico, the very first contributor to the project.
+When I read the code Hicopico sent, the first line was already on fire.  
+The way the FOR loops are nested is brilliant.  
+Also, at the end of the second line: `R$="( =`  
+I thought, “Wait, isn’t it supposed to close the double quote?” But it doesn’t cause a Syntax Error.  
+I just learned how deep BASIC really is.
 
-When I read the code I received from Hicopico, the first line is pure fire.  
-The way the FOR loops are nested is brilliant—I was really impressed.  
-Also, at the end of the second line, R$="( =  
-Wait… isn’t it okay even if you don’t close the double quote? But it doesn’t cause a Syntax Error.  
-I got to experience the true depth of BASIC.
+And the **gameplay is excellent** too.
 
-And **the gameplay is really good** too.
+The controls feel far better than you’d expect from a single-screen game.  
+The gameplay changes completely depending on how you press the jump button, land on the corner of the character, or cross the edge of the screen — those little gimmicks are fantastic.
 
-The controls feel way beyond what you’d expect from a single-screen game.  
-Gimmicks like pressing the jump button, landing on the corner of the character, or crossing the edge of the screen completely change how the game plays.
-
-It says to aim for 50 HAMUSHI! But as a total noob, I get game over at around 35 or 36.  
+He said the goal is 50 Hamushi! But as someone who’s bad at games, I only reached 35 or 36 before game over.  
 So frustrating!!
 
-- Editor: SAILORMAN
+(Ver 1.1)  
+It looks like a blue sky has been added. The first line is now packed full of code — it’s spectacular.
+
+- Editorial Staff: SAILORMAN
